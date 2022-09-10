@@ -2,7 +2,7 @@
 Group project where we were challenged to create a game from scratch during the 4th week @ <Academia de Código_>#72 && #74 Bootcamp @ Porto.
 
 ## Visuals
-<img src="https://github.com/epicnessinha/SIMS-Academy/blob/main/resources/Intro.png" alt="drawing" width="40%"/>
+<img src="https://github.com/epicnessinha/SIMS-Academy/blob/main/resources/Intro.png" alt="drawing" width="40%"/> <img src="https://github.com/epicnessinha/SIMS-Academy/blob/main/resources/Choose%20Player.png" alt="drawing" width="40%"/>
 
 ## Team contacts: 
 [Vanessa Ferreira](https://www.linkedin.com/in/vanessabio/)
